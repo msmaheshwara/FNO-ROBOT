@@ -1,0 +1,66 @@
+{
+  "Verify Creation Of Sub Organization":{
+
+    "userName":"msmaheshwara@gmail.com",
+    "password":"Flexera1",
+    "AccountId":"AccountId-TestsCreationOfSubOrg",
+    "AccountName":"AccountName-TestsCreationOfSubOrg"
+
+
+
+
+  },
+
+  "Creation Of Sub Organization from EP as Portal Admin USer":{
+
+    "userName":"msmaheshwara@gmail.com",
+    "password":"pNz$$19!!Q1",
+    "category":"Account ID",
+    "Qualifier":"Equals",
+    "SearchPhrase":"Account-CreateSubOrg-1",
+    "TestAccountName":"SubOrganizationCreationTestName",
+    "TestAccountId":"SubOrganizationCreationTestId"
+
+  },
+
+
+  "Delete Sub Account From EP":{
+    "userName":"msmaheshwara@gmail.com",
+    "password":"pNz$$19!!Q1",
+    "category":"Account ID",
+    "Qualifier":"Equals",
+    "SearchPhrase":"Account-CreateSubOrg-1",
+    "TestAccountName":"DeleteOrganizationSubOrgName-1",
+    "TestAccountId":"DeleteOrganizationSubOrgID-1"
+  },
+
+   "Search Activation ID using Entitlement ID in EP":{
+     "userName":"msmaheshwara@gmail.com",
+     "password":"pNz$$19!!Q1",
+     "EntitlementId":"E-JUNE131A",
+     "ActivationID":"E-JUNE131A-LNM1",
+     "SoldTo":"ORGJULY061",
+     "SoldToType":"End Customer",
+     "Product":"FC1",
+     "Version":"1.0",
+     "AvialableCount":"100",
+     "TotalCount":"100",
+     "ExpirationDate":"Jun 30, 2020"
+      },
+
+  "Advanced Search using Activation ID":{
+     "userName":"msmaheshwara@gmail.com",
+     "password":"pNz$$19!!Q1",
+     "EntitlementId":"E-JUNE131A",
+     "ActivationID":"E-JUNE131A-LNM1",
+     "SoldTo":"ORGJULY061",
+     "SoldToType":"End Customer",
+     "Product":"FC1",
+     "Version":"1.0",
+     "AvialableCount":"100",
+     "TotalCount":"100",
+     "ExpirationDate":"Jun 30, 2020"
+      }
+
+
+}
