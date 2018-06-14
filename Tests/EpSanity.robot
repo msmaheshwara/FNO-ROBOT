@@ -108,7 +108,7 @@ Advanced Search using Activation ID
      ...   Steps to execute
      ...   Login to EP  and Navigate to List Entitlement Page and search for Activation ID from advanced search option
 
-    [Tags]    current
+    [Tags]    sanity
 
      #############################################################################
      ##################Read Data From Json file##################################
